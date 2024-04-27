@@ -131,7 +131,7 @@ sabo@sabo-virtual-machine:~/LESSONS/WEB$
 
 http://localhost:8081/
 
-![](pic/1.png)
+![](Pic/1.png)
 
 http://localhost:8082/ 
 
